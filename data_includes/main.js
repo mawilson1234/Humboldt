@@ -350,14 +350,16 @@ newTrial('feedback',
         .print()
     ,
 
-    newText("prev_exp", "Did you participate in any previous study to Prolific that contained some sentences very similar to ones in this study? (Your answer to this question will not affect your payment in any way.)")
+    newText("prev_exp", "<br /><br />Have you previously participated in any study on Prolific that contained some sentences very similar to ones in this study? (Your answer to this question will not affect your payment in any way.) <br /><br />")
+        .settings.css('width', '40em')
+        .settings.css('text-align', 'justify')
         .print()
     ,
 
     newTextInput('prev_exp', "")
+        .cssContainer('text-align', 'center')
         .log()
-        .lines(0)
-        .size(400, 200)
+        .lines(10)
         .print()
     ,
 
