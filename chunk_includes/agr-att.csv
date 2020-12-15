@@ -1,0 +1,257 @@
+Group,Item,Gram,Match,Distance,Sentence
+A,1,Gram,Match,Short,The mountain that the naturalist was happily hiking on was especially beautiful at sunrise.
+B,1,Gram,Mismatch,Short,The mountains that the naturalist was happily hiking on were especially beautiful at sunrise.
+C,1,Ungram,Match,Short,The mountain that the naturalist were happily hiking on was especially beautiful at sunrise.
+D,1,Ungram,Mismatch,Short,The mountains that the naturalist were happily hiking on were especially beautiful at sunrise.
+E,1,Gram,Match,Long,"The mountain that, at the crack of dawn, the naturalist was happily hiking on, was especially beautiful at sunrise."
+F,1,Gram,Mismatch,Long,"The mountains that, at the crack of dawn, the naturalist was happily hiking on, were especially beautiful at sunrise."
+G,1,Ungram,Match,Long,"The mountain that, at the crack of dawn, the naturalist were happily hiking on, was especially beautiful at sunrise."
+H,1,Ungram,Mismatch,Long,"The mountains that, at the crack of dawn, the naturalist were happily hiking on, were especially beautiful at sunrise."
+H,2,Gram,Match,Short,The field that the farmer was laboriously planting the crops in was rich in nutrients.
+A,2,Gram,Mismatch,Short,The fields that the farmer was laboriously planting the crops in was rich in nutrients.
+B,2,Ungram,Match,Short,The field that the farmer were laboriously planting the crops in was rich in nutrients.
+C,2,Ungram,Mismatch,Short,The fields that the farmer were laboriously planting the crops in was rich in nutrients.
+D,2,Gram,Match,Long,"The field that, just one month ago, the farmer was laboriously planting the crops in, was rich in nutrients."
+E,2,Gram,Mismatch,Long,"The fields that, just one month ago, the farmer was laboriously planting the crops in, were rich in nutrients."
+F,2,Ungram,Match,Long,"The field that, just one month ago, the farmer were laboriously planting the crops in, was rich in nutrients."
+G,2,Ungram,Mismatch,Long,"The fields that, just one month ago, the farmer were laboriously planting the crops in, were rich in nutrients."
+G,3,Gram,Match,Short,The meadow that the backpacker was aimlessly wandering in was lush with vegetation.
+H,3,Gram,Mismatch,Short,The meadows that the backpacker was aimlessly wandering in were lush with vegetation.
+A,3,Ungram,Match,Short,The meadow that the backpacker were aimlessly wandering in was lush with vegetation.
+B,3,Ungram,Mismatch,Short,The meadows that the backpacker were aimlessly wandering in were lush with vegetation.
+C,3,Gram,Match,Long,"The meadow that, sometime earlier in the day, the backpacker was aimlessly wandering in, was lush with vegetation."
+D,3,Gram,Mismatch,Long,"The meadows that, sometime earlier in the day, the backpacker was aimlessly wandering in were lush with vegetation."
+E,3,Ungram,Match,Long,"The meadow that, sometime earlier in the day, the backpacker were aimlessly wandering in was lush with vegetation."
+F,3,Ungram,Mismatch,Long,"The meadows that, sometime earlier in the day, the backpacker were aimlessly wandering in were lush with vegetation."
+F,4,Gram,Match,Short,The swamp that the outdoorsman was exhaustedly hiking in was full of birch trees.
+G,4,Gram,Mismatch,Short,The swamps that the outdoorsman was exhaustedly hiking in were full of birch trees.
+H,4,Ungram,Match,Short,The swamp that the outdoorsman were exhaustedly hiking in was full of birch trees.
+A,4,Ungram,Mismatch,Short,The swamps that the outdoorsman were exhaustedly hiking in were full of birch trees.
+B,4,Gram,Match,Long,"The swamp that, earlier in the afternoon, the outdoorsman was exhaustedly hiking in, was full of birch trees."
+C,4,Gram,Mismatch,Long,"The swamps that, earlier in the afternoon, the outdoorsman was exhaustedly hiking in, were full of birch trees."
+D,4,Ungram,Match,Long,"The swamp that, earlier in the afternoon, the outdoorsman were exhaustedly hiking in, was full of birch trees."
+E,4,Ungram,Mismatch,Long,"The swamps that, earlier in the afternoon, the outdoorsman were exhaustedly hiking in, were full of birch trees."
+E,5,Gram,Match,Short,The building that the architect was thoroughly preparing for his exam in housed several archives of blueprints.
+F,5,Gram,Mismatch,Short,The buildings that the architect was thoroughly preparing for his exam in housed several archives of blueprints.
+G,5,Ungram,Match,Short,The building that the architect were thoroughly preparing for his exam in housed several archives of blueprints.
+H,5,Ungram,Mismatch,Short,The buildings that the architect were thoroughly preparing for his exam in housed several archives of blueprints.
+A,5,Gram,Match,Long,"The building that, this time last semester, the architect was thoroughly preparing for his exam in, housed several archives of blueprints."
+B,5,Gram,Mismatch,Long,"The buildings that, this time last semester, the architect was thoroughly preparing for his exam in, housed several archives of blueprints."
+C,5,Ungram,Match,Long,"The building that, this time last semester, the architect were thoroughly preparing for his exam in, housed several archives of blueprints."
+D,5,Ungram,Mismatch,Long,"The buildings that, this time last semester, the architect were thoroughly preparing for his exam in, housed several archives of blueprints."
+D,6,Gram,Match,Short,The garden that the botanist is currently collecting specimens in is home to many exotic plants.
+E,6,Gram,Mismatch,Short,The gardens that the botanist is currently collecting specimens in are home to many exotic plants.
+F,6,Ungram,Match,Short,The garden that the botanist are currently collecting specimens in is home to many exotic plants.
+G,6,Ungram,Mismatch,Short,The gardens that the botanist are currently collecting specimens in are home to many exotic plants.
+H,6,Gram,Match,Long,"The garden that, despite the summer heat, the botanist is currently collecting specimens in, is home to many exotic plants."
+A,6,Gram,Mismatch,Long,"The gardens that, despite the summer heat, the botanist is currently collecting specimens in, are home to many exotic plants."
+B,6,Ungram,Match,Long,"The garden that, despite the summer heat, the botanist are currently collecting specimens in, is home to many exotic plants."
+C,6,Ungram,Mismatch,Long,"The gardens that, despite the summer heat, the botanist are currently collecting specimens in, are home to many exotic plants."
+C,7,Gram,Match,Short,The ruin that the archaeologist was meticulously excavating artifacts in was the site of important cultural events.
+D,7,Gram,Mismatch,Short,The ruins that the archaeologist was meticulously excavating artifacts in were the site of important cultural events.
+E,7,Ungram,Match,Short,The ruin that the archaeologist were meticulously excavating artifacts in was the site of important cultural events.
+F,7,Ungram,Mismatch,Short,The ruins that the archaeologist were meticulously excavating artifacts in were the site of important cultural events.
+G,7,Gram,Match,Long,"The ruin that, this time last spring, the archaeologist was meticulously excavating artifacts in, was the site of important cultural events."
+H,7,Gram,Mismatch,Long,"The ruins that, this time last spring, the archaeologist was meticulously excavating artifacts in, were the site of important cultural events."
+A,7,Ungram,Match,Long,"The ruin that, this time last spring, the archaeologist were meticulously excavating artifacts in, was the site of important cultural events."
+B,7,Ungram,Mismatch,Long,"The ruins that, this time last spring, the archaeologist were meticulously excavating artifacts in, were the site of important cultural events."
+B,8,Gram,Match,Short,The library that the mayor is enthusiastically promoting educational events at is in desperate need of funding.
+C,8,Gram,Mismatch,Short,The libraries that the mayor is enthusiastically promoting educational events at are in desperate need of funding.
+D,8,Ungram,Match,Short,The library that the mayor are enthusiastically promoting educational events at is in desperate need of funding.
+E,8,Ungram,Mismatch,Short,The libraries that the mayor are enthusiastically promoting educational events at are in desperate need of funding.
+F,8,Gram,Match,Long,"The library that, once each winter month, the mayor is enthusiastically promoting educational events at, is in desperate need of funding."
+G,8,Gram,Mismatch,Long,"The libraries that, once each winter month, the mayor is enthusiastically promoting educational events at, are in desperate need of funding."
+H,8,Ungram,Match,Long,"The library that, once each winter month, the mayor are enthusiastically promoting educational events at, is in desperate need of funding."
+A,8,Ungram,Mismatch,Long,"The libraries that, once each winter month, the mayor are enthusiastically promoting educational events at, are in desperate need of funding."
+A,9,Gram,Match,Short,The set that the director was recently filming at is intricately detailed.
+B,9,Gram,Mismatch,Short,The sets that the director was recently filming at are intricately detailed.
+C,9,Ungram,Match,Short,The set that the director were recently filming at is intricately detailed.
+D,9,Ungram,Mismatch,Short,The sets that the director were recently filming at are intricately detailed.
+E,9,Gram,Match,Long,"The set that, despite the ongoing strike, the director was recently filming at, is intricately detailed."
+F,9,Gram,Mismatch,Long,"The sets that, despite the ongoing strike, the director was recently filming at, are intricately detailed."
+G,9,Ungram,Match,Long,"The set that, despite the ongoing strike, the director were recently filming at, is intricately detailed."
+H,9,Ungram,Mismatch,Long,"The sets that, despite the ongoing strike, the director were recently filming at, are intricately detailed."
+H,10,Gram,Match,Short,The park that the musician was routinely holding free concerts at is popular with families.
+A,10,Gram,Mismatch,Short,The parks that the musician was routinely holding free concerts at are popular with families.
+B,10,Ungram,Match,Short,The park that the musician were routinely holding free concerts at is popular with families.
+C,10,Ungram,Mismatch,Short,The parks that the musician were routinely holding free concerts at are popular with families.
+D,10,Gram,Match,Long,"The park that, every month last summer, the musician was routinely holding free concerts at, is popular with families."
+E,10,Gram,Mismatch,Long,"The parks that, every month last summer, the musician was routinely holding free concerts at, are popular with families."
+F,10,Ungram,Match,Long,"The park that, every month last summer, the musician were routinely holding free concerts at, is popular with families."
+G,10,Ungram,Mismatch,Long,"The parks that, every month last summer, the musician were routinely holding free concerts at, are popular with families."
+G,11,Gram,Match,Short,The cavern that the pirate is greedily searching for treasure in has many dangers.
+H,11,Gram,Mismatch,Short,The caverns that the pirate is greedily searching for treasure in have many dangers.
+A,11,Ungram,Match,Short,The cavern that the pirate are greedily searching for treasure in has many dangers.
+B,11,Ungram,Mismatch,Short,The caverns that the pirate are greedily searching for treasure in have many dangers.
+C,11,Gram,Match,Long,"The cavern that, with every passing second, the pirate is greedily searching for treasure in, has many dangers."
+D,11,Gram,Mismatch,Long,"The caverns that, with every passing second, the pirate is greedily searching for treasure in, have many dangers."
+E,11,Ungram,Match,Long,"The cavern that, with every passing second, the pirate are greedily searching for treasure in, has many dangers."
+F,11,Ungram,Mismatch,Long,"The caverns that, with every passing second, the pirate are greedily searching for treasure in, have many dangers."
+F,12,Gram,Match,Short,The hallway that the guard was cautiously patrolling in is equipped with security cameras.
+G,12,Gram,Mismatch,Short,The hallways that the guard was cautiously patrolling in are equipped with security cameras.
+H,12,Ungram,Match,Short,The hallway that the guard were cautiously patrolling in is equipped with security cameras.
+A,12,Ungram,Mismatch,Short,The hallways that the guard were cautiously patrolling in are equipped with security cameras.
+B,12,Gram,Match,Long,"The hallway that, every night last week, the guard was cautiously patrolling in, is equipped with security cameras."
+C,12,Gram,Mismatch,Long,"The hallways that, every night last week, the guard was cautiously patrolling in, are equipped with security cameras."
+D,12,Ungram,Match,Long,"The hallway that, every night last week, the guard were cautiously patrolling in, is equipped with security cameras."
+E,12,Ungram,Mismatch,Long,"The hallways that, every night last week, the guard were cautiously patrolling in, are equipped with security cameras."
+E,13,Gram,Match,Short,The burner that the chef was meticulously simmering risotto on is precisely calibrated for heat.
+F,13,Gram,Mismatch,Short,The burners that the chef was meticulously simmering risotto on are precisely calibrated for heat.
+G,13,Ungram,Match,Short,The burner that the chef were meticulously simmering risotto on is precisely calibrated for heat.
+H,13,Ungram,Mismatch,Short,The burners that the chef were meticulously simmering risotto on are precisely calibrated for heat.
+A,13,Gram,Match,Long,"The burner that, for the last hour, the chef was meticulously simmering risotto on, is precisely calibrated for heat."
+B,13,Gram,Mismatch,Long,"The burners that, for the last hour, the chef was meticulously simmering risotto on, are precisely calibrated for heat."
+C,13,Ungram,Match,Long,"The burner that, for the last hour, the chef were meticulously simmering risotto on, is precisely calibrated for heat."
+D,13,Ungram,Mismatch,Long,"The burners that, for the last hour, the chef were meticulously simmering risotto on, are precisely calibrated for heat."
+D,14,Gram,Match,Short,The orchard that the gardener is carefully cultivating cherry trees in looks beautiful in the evening light.
+E,14,Gram,Mismatch,Short,The orchards that the gardener is carefully cultivating cherry trees in look beautiful in the evening light.
+F,14,Ungram,Match,Short,The orchard that the gardener are carefully cultivating cherry trees in looks beautiful in the evening light.
+G,14,Ungram,Mismatch,Short,The orchards that the gardener are carefully cultivating cherry trees in look beautiful in the evening light.
+H,14,Gram,Match,Long,"The orchard that, despite the tropical heat, the gardener is carefully cultivating cherry trees in, looks beautiful in the evening light."
+A,14,Gram,Mismatch,Long,"The orchards that, despite the tropical heat, the gardener is carefully cultivating cherry trees in, look beautiful in the evening light."
+B,14,Ungram,Match,Long,"The orchard that, despite the tropical heat, the gardener are carefully cultivating cherry trees in, looks beautiful in the evening light."
+C,14,Ungram,Mismatch,Long,"The orchards that, despite the tropical heat, the gardener are carefully cultivating cherry trees in, look beautiful in the evening light."
+C,15,Gram,Match,Short,The notebook that the artist was peacefully sketching in is bound in leather.
+D,15,Gram,Mismatch,Short,The notebooks that the artist was peacefully sketching in are bound in leather.
+E,15,Ungram,Match,Short,The notebook that the artist were peacefully sketching in is bound in leather.
+F,15,Ungram,Mismatch,Short,The notebooks that the artist were peacefully sketching in are bound in leather.
+G,15,Gram,Match,Long,"The notebook that, on a sunny afternoon, the artist was peacefully sketching in, is bound in leather."
+H,15,Gram,Mismatch,Long,"The notebooks that, on a sunny afternoon, the artist was peacefully sketching in, are bound in leather."
+A,15,Ungram,Match,Long,"The notebook that, on a sunny afternoon, the artist were peacefully sketching in, is bound in leather."
+B,15,Ungram,Mismatch,Long,"The notebooks that, on a sunny afternoon, the artist were peacefully sketching in, are bound in leather."
+B,16,Gram,Match,Short,The conference that the genius is finally presenting his work at is always well-attended.
+C,16,Gram,Mismatch,Short,The conferences that the genius is finally presenting his work at are always well-attended.
+D,16,Ungram,Match,Short,The conference that the genius are finally presenting his work at is always well-attended.
+E,16,Ungram,Mismatch,Short,The conferences that the genius are finally presenting his work at are always well-attended.
+F,16,Gram,Match,Long,"The conference that, after a long year, the genius is finally presenting his work at, is always well-attended."
+G,16,Gram,Mismatch,Long,"The conferences that, after a long year, the genius is finally presenting his work at, are always well-attended."
+H,16,Ungram,Match,Long,"The conference that, after a long year, the genius are finally presenting his work at, is always well-attended."
+A,16,Ungram,Mismatch,Long,"The conferences that, after a long year, the genius are finally presenting his work at, are always well-attended."
+A,17,Gram,Match,Short,The shed that the inventor was constantly vacuuming in is tidily organized.
+B,17,Gram,Mismatch,Short,The sheds that the inventor was constantly vacuuming in are tidily organized.
+C,17,Ungram,Match,Short,The shed that the inventor were constantly vacuuming in is tidily organized.
+D,17,Ungram,Mismatch,Short,The sheds that the inventor were constantly vacuuming in are tidily organized.
+E,17,Gram,Match,Long,"The shed that, every week last month, the inventor was constantly vacuuming in, is tidily organized."
+F,17,Gram,Mismatch,Long,"The sheds that, every week last month, the inventor was constantly vacuuming in, are tidily organized."
+G,17,Ungram,Match,Long,"The shed that, every week last month, the inventor were constantly vacuuming in, is tidily organized."
+H,17,Ungram,Mismatch,Long,"The sheds that, every week last month, the inventor were constantly vacuuming in, are tidily organized."
+H,18,Gram,Match,Short,The laboratory that the scientist is compulsively vacuuming in is full of unused devices.
+A,18,Gram,Mismatch,Short,The laboratories that the scientist is compulsively vacuuming in are full of unused devices.
+B,18,Ungram,Match,Short,The laboratory that the scientist are compulsively vacuuming in is full of unused devices.
+C,18,Ungram,Mismatch,Short,The laboratories that the scientist are compulsively vacuuming in are full of unused devices.
+D,18,Gram,Match,Long,"The laboratory that, almost every day, the scientist is compulsively vacuuming in, is full of unused devices."
+E,18,Gram,Mismatch,Long,"The laboratories that, almost every day, the scientist is compulsively vacuuming in, are full of unused devices."
+F,18,Ungram,Match,Long,"The laboratory that, almost every day, the scientist are compulsively vacuuming in, is full of unused devices."
+G,18,Ungram,Mismatch,Long,"The laboratories that, almost every day, the scientist are compulsively vacuuming in, are full of unused devices."
+G,19,Gram,Match,Short,The sketchpad that the student was obsessively doodling in is tattered and worn.
+H,19,Gram,Mismatch,Short,The sketchpads that the student was obsessively doodling in are tattered and worn.
+A,19,Ungram,Match,Short,The sketchpad that the student were obsessively doodling in is tattered and worn.
+B,19,Ungram,Mismatch,Short,The sketchpads that the student were obsessively doodling is are tattered and worn.
+C,19,Gram,Match,Long,"The sketchpad that, during every class period, the student was obsessively doodling in, is tattered and worn."
+D,19,Gram,Mismatch,Long,"The sketchpads that, during every class period, the student was obsessively doodling in, are tattered and worn."
+E,19,Ungram,Match,Long,"The sketchpad that, during every class period, the student were obsessively doodling in, is tattered and worn."
+F,19,Ungram,Mismatch,Long,"The sketchpads that, during every class period, the student were obsessively doodling is are tattered and worn."
+F,20,Gram,Match,Short,The wall that the toddler was excitedly doodling on could use a new coat of paint.
+G,20,Gram,Mismatch,Short,The walls that the toddler was excitedly doodling on could use a new coat of paint.
+H,20,Ungram,Match,Short,The wall that the toddler were excitedly doodling on could use a new coat of paint.
+A,20,Ungram,Mismatch,Short,The walls that the toddler were excitedly doodling on could use a new coat of paint.
+B,20,Gram,Match,Long,"The wall that, early in the morning, the toddler was excitedly doodling on, could use a new coat of paint."
+C,20,Gram,Mismatch,Long,"The walls that, early in the morning, the toddler was excitedly doodling on, could use a new coat of paint."
+D,20,Ungram,Match,Long,"The wall that, early in the morning, the toddler were excitedly doodling on, could use a new coat of paint."
+E,20,Ungram,Mismatch,Long,"The walls that, early in the morning, the toddler were excitedly doodling on, could use a new coat of paint."
+E,21,Gram,Match,Short,The garden that the bunny was playfully hopping around in is full of carrots.
+F,21,Gram,Mismatch,Short,The gardens that the bunny was playfully hopping around in are full of carrots.
+G,21,Ungram,Match,Short,The garden that the bunny were playfully hopping around in is full of carrots.
+H,21,Ungram,Mismatch,Short,The gardens that the bunny were playfully hopping around in are full of carrots.
+A,21,Gram,Match,Long,"The garden that, in the early evening, the bunny was playfully hopping around in, is full of carrots."
+B,21,Gram,Mismatch,Long,"The gardens that, in the early evening, the bunny was playfully hopping around in, are full of carrots."
+C,21,Ungram,Match,Long,"The garden that, in the early evening, the bunny were playfully hopping around in, is full of carrots."
+D,21,Ungram,Mismatch,Long,"The gardens that, in the early evening, the bunny were playfully hopping around in, are full of carrots."
+D,22,Gram,Match,Short,The meadow that the girl is happily traipsing in is teeming with colorful flowers.
+E,22,Gram,Mismatch,Short,The meadows that the girl is happily traipsing in are teeming with colorful flowers.
+F,22,Ungram,Match,Short,The meadow that the girl are happily traipsing in is teeming with colorful flowers.
+G,22,Ungram,Mismatch,Short,The meadows that the girl are happily traipsing in are teeming with colorful flowers.
+H,22,Gram,Match,Long,"The meadow that, on this lazy summer afternoon, the girl is happily traipsing in, is teeming with colorful flowers."
+A,22,Gram,Mismatch,Long,"The meadows that, on this lazy summer afternoon, the girl is happily traipsing in, are teeming with colorful flowers."
+B,22,Ungram,Match,Long,"The meadow that, on this lazy summer afternoon, the girl are happily traipsing in, is teeming with colorful flowers."
+C,22,Ungram,Mismatch,Long,"The meadows that, on this lazy summer afternoon, the girl are happily traipsing in, are teeming with colorful flowers."
+C,23,Gram,Match,Short,The canyon that the bobcat was confidently prowling around in is marked as off-limits.
+D,23,Gram,Mismatch,Short,The canyons that the bobcat was confidently prowling around in are marked as off-limits.
+E,23,Ungram,Match,Short,The canyon that the bobcat were confidently prowling around in is marked as off-limits.
+F,23,Ungram,Mismatch,Short,The canyons that the bobcat were confidently prowling around in are marked as off-limits.
+G,23,Gram,Match,Long,"The canyon that, just one week ago, the bobcat was confidently prowling around in, is marked as off-limits."
+H,23,Gram,Mismatch,Long,"The canyons that, just one week ago, the bobcat was confidently prowling around in, are marked as off-limits."
+A,23,Ungram,Match,Long,"The canyon that, just one week ago, the bobcat were confidently prowling around in, is marked as off-limits."
+B,23,Ungram,Mismatch,Long,"The canyons that, just one week ago, the bobcat were confidently prowling around in, are marked as off-limits."
+B,24,Gram,Match,Short,The cave that the camper is cautiously nestling in is unable to keep out the rain.
+C,24,Gram,Mismatch,Short,The caves that the camper is cautiously nestling in are unable to keep out the rain.
+D,24,Ungram,Match,Short,The cave that the camper are cautiously nestling in is unable to keep out the rain.
+E,24,Ungram,Mismatch,Short,The caves that the camper are cautiously nestling in are unable to keep out the rain.
+F,24,Gram,Match,Long,"The cave that, despite a foreboding appearance, the camper is cautiously nestling in, is unable to keep out the rain."
+G,24,Gram,Mismatch,Long,"The caves that, despite a foreboding appearance, the camper is cautiously nestling in, are unable to keep out the rain."
+H,24,Ungram,Match,Long,"The cave that, despite a foreboding appearance, the camper are cautiously nestling in, is unable to keep out the rain."
+A,24,Ungram,Mismatch,Long,"The caves that, despite a foreboding appearance, the camper are cautiously nestling in, are unable to keep out the rain."
+A,25,Gram,Match,Short,The box that the collector was secretly storing ancient books in is kept in the basement.
+B,25,Gram,Mismatch,Short,The boxes that the collector was secretly storing ancient books in are kept in the basement.
+C,25,Ungram,Match,Short,The box that the collector were secretly storing ancient books in is kept in the basement.
+D,25,Ungram,Mismatch,Short,The boxes that the collector were secretly storing ancient books in are kept in the basement.
+E,25,Gram,Match,Long,"The box that, sometime late last month, the collector was secretly storing ancient books in, is kept in the basement."
+F,25,Gram,Mismatch,Long,"The boxes that, sometime late last month, the collector was secretly storing ancient books in, are kept in the basement."
+G,25,Ungram,Match,Long,"The box that, sometime late last month, the collector were secretly storing ancient books in, is kept in the basement."
+H,25,Ungram,Mismatch,Long,"The boxes that, sometime late last month, the collector were secretly storing ancient books in, are kept in the basement."
+H,26,Gram,Match,Short,The aisle that the attendant is vigorously mopping in is not currently open to customers.
+A,26,Gram,Mismatch,Short,The aisles that the attendant is vigorously mopping in are not currently open to customers.
+B,26,Ungram,Match,Short,The aisle that the attendant are vigorously mopping in is not currently open to customers.
+C,26,Ungram,Mismatch,Short,The aisles that the attendant are vigorously mopping in are not currently open to customers.
+D,26,Gram,Match,Long,"The aisle that, because of the big spill, the attendant is vigorously mopping in, is not currently open to customers."
+E,26,Gram,Mismatch,Long,"The aisles that, because of the big spill, the attendant is vigorously mopping in, are not currently open to customers."
+F,26,Ungram,Match,Long,"The aisle that, because of the big spill, the attendant are vigorously mopping in, is not currently open to customers."
+G,26,Ungram,Mismatch,Long,"The aisles that, because of the big spill, the attendant are vigorously mopping in, are not currently open to customers."
+G,27,Gram,Match,Short,The branch that the monkey was exuberantly swinging from is gnarled and twisted.
+H,27,Gram,Mismatch,Short,The branches that the monkey was exuberantly swinging from are gnarled and twisted.
+A,27,Ungram,Match,Short,The branch that the monkey were exuberantly swinging from is gnarled and twisted.
+B,27,Ungram,Mismatch,Short,The branches that the monkey were exuberantly swinging from are gnarled and twisted.
+C,27,Gram,Match,Long,"The branch that, just a minute ago, the monkey was exuberantly swinging from, is gnarled and twisted."
+D,27,Gram,Mismatch,Long,"The branches that, just a minute ago, the monkey was exuberantly swinging from, are gnarled and twisted."
+E,27,Ungram,Match,Long,"The branch that, just a minute ago, the monkey were exuberantly swinging from, is gnarled and twisted."
+F,27,Ungram,Mismatch,Long,"The branches that, just a minute ago, the monkey were exuberantly swinging from, are gnarled and twisted."
+F,28,Gram,Match,Short,The puddle that the frog was noisily leaping around in is full of dirty brown water.
+G,28,Gram,Mismatch,Short,The puddles that the frog was noisily leaping around in are full of dirty brown water.
+H,28,Ungram,Match,Short,The puddle that the frog were noisily leaping around in is full of dirty brown water.
+A,28,Ungram,Mismatch,Short,The puddles that the frog were noisily leaping around in are full of dirty brown water.
+B,28,Gram,Match,Long,"The puddle that, just after the rainstorm, the frog was noisily leaping around in, is full of dirty brown water."
+C,28,Gram,Mismatch,Long,"The puddles that, just after the rainstorm, the frog was noisily leaping around in, are full of dirty brown water."
+D,28,Ungram,Match,Long,"The puddle that, just after the rainstorm, the frog were noisily leaping around in, is full of dirty brown water."
+E,28,Ungram,Mismatch,Long,"The puddles that, just after the rainstorm, the frog were noisily leaping around in, are full of dirty brown water."
+E,29,Gram,Match,Short,The tournament that the boxer is reportedly fighting in is sponsored by a large company.
+F,29,Gram,Mismatch,Short,The tournaments that the boxer is reportedly fighting in are sponsored by a large company.
+G,29,Ungram,Match,Short,The tournament that the boxer are reportedly fighting in is sponsored by a large company.
+H,29,Ungram,Mismatch,Short,The tournaments that the boxer are reportedly fighting in are sponsored by a large company.
+A,29,Gram,Match,Long,"The tournament that, every week this month, the boxer is reportedly fighting in, is sponsored by a large company."
+B,29,Gram,Mismatch,Long,"The tournaments that, every week this month, the boxer is reportedly fighting in, are sponsored by a large company."
+C,29,Ungram,Match,Long,"The tournament that, every week this month, the boxer are reportedly fighting in, is sponsored by a large company."
+D,29,Ungram,Mismatch,Long,"The tournaments that, every week this month, the boxer are reportedly fighting in, are sponsored by a large company."
+D,30,Gram,Match,Short,The auction that the philanthropist is willingly selling his prized art collection at is to raise funds to combat hunger.
+E,30,Gram,Mismatch,Short,The auctions that the philanthropist is willingly selling his prized art collection at are to raise funds to combat hunger.
+F,30,Ungram,Match,Short,The auction that the philanthropist are willingly selling his prized art collection at is to raise funds to combat hunger.
+G,30,Ungram,Mismatch,Short,The auctions that the philanthropist are willingly selling his prized art collection at are to raise funds to combat hunger.
+H,30,Gram,Match,Long,"The auction that, according to a reliable source, the philanthropist is willingly selling his prized art collection at, is to raise funds to combat hunger."
+A,30,Gram,Mismatch,Long,"The auctions that, according to a reliable source, the philanthropist is willingly selling his prized art collection at, are to raise funds to combat hunger."
+B,30,Ungram,Match,Long,"The auction that, according to a reliable source, the philanthropist are willingly selling his prized art collection at, is to raise funds to combat hunger."
+C,30,Ungram,Mismatch,Long,"The auctions that, according to a reliable source, the philanthropist are willingly selling his prized art collection at, are to raise funds to combat hunger."
+C,31,Gram,Match,Short,The document that the officer is thoroughly describing the incident in are long and tedious.
+D,31,Gram,Mismatch,Short,The documents that the officer is thoroughly describing the incident in are long and tedious.
+E,31,Ungram,Match,Short,The document that the officer are thoroughly describing the incident in are long and tedious.
+F,31,Ungram,Mismatch,Short,The documents that the officer are thoroughly describing the incident in are long and tedious.
+G,31,Gram,Match,Long,"The document that, due to a bureaucratic requirement, the officer is thoroughly describing the incident in, are long and tedious."
+H,31,Gram,Mismatch,Long,"The documents that, due to a bureaucratic requirement, the officer is thoroughly describing the incident in, are long and tedious."
+A,31,Ungram,Match,Long,"The document that, due to a bureaucratic requirement, the officer are thoroughly describing the incident in, are long and tedious."
+B,31,Ungram,Mismatch,Long,"The documents that, due to a bureaucratic requirement, the officer are thoroughly describing the incident in, are long and tedious."
+B,32,Gram,Match,Short,The drawer that the poet was secretly locking unfinished work away in is in the corner of the study.
+C,32,Gram,Mismatch,Short,The drawers that the poet was secretly locking unfinished work away in are in the corner of the study.
+D,32,Ungram,Match,Short,The drawer that the poet were secretly locking unfinished work away in is in the corner of the study.
+E,32,Ungram,Mismatch,Short,The drawer that the poet were secretly locking unfinished work away in are in the corner of the study.
+F,32,Gram,Match,Long,"The drawer that, for a full decade, the poet was secretly locking unfinished work away in, is in the corner of the study."
+G,32,Gram,Mismatch,Long,"The drawers that, for a full decade, the poet was secretly locking unfinished work away in, are in the corner of the study."
+H,32,Ungram,Match,Long,"The drawer that, for a full decade, the poet were secretly locking unfinished work away in, is in the corner of the study."
+A,32,Ungram,Mismatch,Long,"The drawer that, for a full decade, the poet were secretly locking unfinished work away in, are in the corner of the study."

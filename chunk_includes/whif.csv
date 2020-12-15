@@ -1,0 +1,37 @@
+Group,Item,Structure,GapPosition,Sentence
+A,141,Non-island,Matrix,Who thinks that the teenager bought a car?
+B,141,Non-island,Embedded,What do you think that the teenager bought?
+C,141,Whether,Matrix,Who wonders whether the teenager bought a car?
+D,141,Whether,Embedded,What do you wonder whether the teenager bought?
+E,141,If,Matrix,Who wonders if the teenager bought a car?
+F,141,If,Embedded,What do you wonder if the teenager bought?
+F,142,Non-island,Matrix,Who said that the manager likes the new hire?
+A,142,Non-island,Embedded,Who did you say that the manager likes?
+B,142,Whether,Matrix,Who asked whether the manager likes the new desks?
+C,142,Whether,Embedded,What did you ask whether the manager likes?
+D,142,If,Matrix,Who asked if the manager likes the new desks?
+E,142,If,Embedded,What did you ask if the manager likes?
+E,143,Non-island,Matrix,Who believed that the doctor had treated the patient?
+F,143,Non-island,Embedded,Who did you believe that the doctor had treated?
+A,143,Whether,Matrix,Who wondered whether the doctor had treated the patient?
+B,143,Whether,Embedded,Who did you wonder whether the doctor had treated?
+C,143,If,Matrix,Who wondered if the doctor had treated the patient?
+D,143,If,Embedded,Who did you wonder if the doctor had treated?
+D,144,Non-island,Matrix,Who said that the new baker made a delicious cake?
+E,144,Non-island,Embedded,What did you say that the new baker made?
+F,144,Whether,Matrix,Who asked whether the new baker made a delicious cake?
+A,144,Whether,Embedded,What did you ask whether the new baker made?
+B,144,If,Matrix,Who asked if the new baker made a delicious cake?
+C,144,If,Embedded,What did you ask if the new baker made?
+C,145,Non-island,Matrix,Who thought that the teacher had met the exchange student?
+D,145,Non-island,Embedded,Who did you think that the teacher had met?
+E,145,Whether,Matrix,Who wondered whether the teacher had met the exchange student?
+F,145,Whether,Embedded,Who did you wonder whether the teacher had met?
+A,145,If,Matrix,Who wondered if the teacher had met the exchange student?
+B,145,If,Embedded,Who did you wonder if the teacher had met?
+B,146,Non-island,Matrix,Who said that the court had repealed the unjust law?
+C,146,Non-island,Embedded,What did you say that the court had repealed?
+D,146,Whether,Matrix,Who asked whether the court had repealed the unjust law?
+E,146,Whether,Embedded,What did you ask whether the court had repealed?
+F,146,If,Matrix,Who asked if the court had repealed the unjust law?
+A,146,If,Embedded,What did you ask if the court had repealed?

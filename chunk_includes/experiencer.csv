@@ -1,0 +1,129 @@
+Group,Item,VerbType,Verb,SentenceVoice,Sentence,VerbFrequency,VerbLength,EmotionalValence,EVPairType
+A,57,SubjExp,appreciate,Active,That's the actor that the director particularly appreciates because of his dramatic emotional bearing.,4861,11,Positive,PN
+B,57,ObjExp,bother,Active,That's the actor that the director particularly bothers because of his dramatic emotional bearing.,5102,7,Negative,PN
+C,57,SubjExp,appreciate,Passive,That's the director that the actor is particularly appreciated by because of his dramatic emotional bearing.,4861,11,Positive,PN
+D,57,ObjExp,bother,Passive,That's the director that the actor is particularly bothered by because of his dramatic emotional bearing.,5102,8,Negative,PN
+D,58,SubjExp,appreciate,Active,That's the park ranger that the tourist particularly appreciates because of his gung-ho attitude.,4861,11,Positive,PN
+A,58,ObjExp,bother,Passive,That's the tourist that the park ranger is particularly bothered by because of his gung-ho attitude.,5102,8,Negative,PN
+B,58,SubjExp,appreciate,Passive,That's the tourist that the park ranger is particularly appreciated by because of his gung-ho attitude.,4861,11,Positive,PN
+C,58,ObjExp,bother,Active,That's the park ranger that the tourist particularly bothers because of his gung-ho attitude.,5102,7,Negative,PN
+C,59,SubjExp,admire,Active,That's the student that the professor somewhat admires in spite of his know-it-all attitude.,1042,7,Positive,PN
+D,59,ObjExp,frighten,Active,That's the student that the professor somewhat frightens in spite of his know-it-all attitude.,834,9,Negative,PN
+A,59,SubjExp,admire,Passive,That's the professor that the student is somewhat admired by in spite of his know-it-all attitude.,1042,7,Positive,PN
+B,59,ObjExp,frighten,Passive,That's the professor that the student is somewhat frightened by in spite of his know-it-all attitude.,834,10,Negative,PN
+B,60,SubjExp,admire,Active,That's the player that the coach somewhat admires in spite of his over-eagerness.,1042,7,Positive,PN
+C,60,ObjExp,frighten,Passive,That's the coach that the player is somewhat frightened by in spite of his over-eagerness.,834,10,Negative,PN
+D,60,SubjExp,admire,Passive,That's the coach that the player is somewhat admired by in spite of his over-eagerness.,1042,7,Positive,PN
+A,60,ObjExp,frighten,Active,That's the player that the coach somewhat frightens in spite of his over-eagerness.,834,9,Negative,PN
+A,61,SubjExp,adore,Active,That's the musician that the conductor greatly adores due to his vigorous practice regimen.,602,6,Positive,PN
+B,61,ObjExp,disappoint,Active,That's the musician that the conductor greatly disappoints due to his vigorous practice regimen.,591,11,Negative,PN
+C,61,SubjExp,adore,Passive,That's the conductor that the musician is greatly adored by due to his vigorous practice regimen.,602,6,Positive,PN
+D,61,ObjExp,disappoint,Passive,That's the conductor that the musician is greatly disappointed by due to his vigorous practice regimen.,591,12,Negative,PN
+D,62,SubjExp,adore,Active,That's the carpenter that the contractor greatly adores due to his workmanship.,602,6,Positive,PN
+A,62,ObjExp,disappoint,Passive,That's the contractor that the carpenter is greatly disappointed by due to his workmanship.,591,12,Negative,PN
+B,62,SubjExp,adore,Passive,That's the contractor that the carpenter is greatly adored by due to his workmanship.,602,6,Positive,PN
+C,62,ObjExp,disappoint,Active,That's the carpenter that the contractor greatly disappoints due to his workmanship.,591,11,Negative,PN
+C,63,SubjExp,fancy,Active,That's the greengrocer that the tailor really fancies on account of their long conversations.,545,7,Positive,PN
+D,63,ObjExp,bore,Active,That's the greengrocer that the tailor really bores on account of their long conversations,563,5,Negative,PN
+A,63,SubjExp,fancy,Passive,That's the tailor that the greengrocer is really fancied by on account of their long conversations.,545,7,Positive,PN
+B,63,ObjExp,bore,Passive,That's the tailor that the greengrocer is really bored by on account of their long conversations.,563,5,Negative,PN
+B,64,SubjExp,fancy,Active,That's the bellboy that the guest really fancies on account of his placid demeanor.,545,7,Positive,PN
+C,64,ObjExp,bore,Passive,That's the guest that the bellboy is really bored by on account of his placid demeanor.,563,5,Negative,PN
+D,64,SubjExp,fancy,Passive,That's the guest that the bellboy is really fancied by on account of his placid demeanor.,545,7,Positive,PN
+A,64,ObjExp,bore,Active,That's the bellboy that the guest really bores on account of his placid demeanor.,563,5,Negative,PN
+A,65,SubjExp,tolerate,Active,That's the student that the teacher somewhat tolerates despite his uncaring appearance.,455,9,Negative,NN
+B,65,ObjExp,terrify,Active,That's the student that the teacher somewhat terrifies despite his uncaring appearance.,443,9,Negative,NN
+C,65,SubjExp,tolerate,Passive,That's the teacher that the student is somewhat tolerated by despite his uncaring appearance.,455,9,Negative,NN
+D,65,ObjExp,terrify,Passive,That's the teacher that the student is somewhat terrified by despite his uncaring appearance.,443,9,Negative,NN
+D,66,SubjExp,tolerate,Active,That's the concierge that the executive somewhat tolerates despite his meek disposition.,455,9,Negative,NN
+A,66,ObjExp,terrify,Passive,That's the executive that the concierge is somewhat terrified by despite his meek disposition.,443,9,Negative,NN
+B,66,SubjExp,tolerate,Passive,That's the executive that the concierge is somewhat tolerated by despite his meek disposition.,455,9,Negative,NN
+C,66,ObjExp,terrify,Active,That's the concierge that the executive somewhat terrifies despite his meek disposition.,443,9,Negative,NN
+C,67,SubjExp,envy,Active,That's the stockbroker that the celebrity really envies because of his vast wealth.,412,6,Negative,NP
+D,67,ObjExp,interest,Active,That's the stockbroker that the celebrity really interests because of his vast wealth.,441,9,Positive,NP
+A,67,SubjExp,envy,Passive,That's the celebrity that the stockbroker is really envied by because of his vast wealth.,412,6,Negative,NP
+B,67,ObjExp,interest,Passive,That's the celebrity that the stockbroker is really interested by because of his vast wealth.,441,10,Positive,NP
+B,68,SubjExp,envy,Active,That's the farmer that the shopkeeper really envies because of his land holdings.,412,6,Negative,NP
+C,68,ObjExp,interest,Passive,That's the shopkeeper that the farmer is really interested by because of his land holdings.,441,10,Positive,NP
+D,68,SubjExp,envy,Passive,That's the shopkeeper that the farmer is really envied by because of his land holdings.,412,6,Negative,NP
+A,68,ObjExp,interest,Active,That's the farmer that the shopkeeper really interests because of his land holdings.,441,9,Positive,NP
+A,69,SubjExp,cherish,Active,That's the daughter that the father particularly cherishes in spite of her lackadaisical attitude.,270,9,Positive,PN
+B,69,ObjExp,annoy,Active,That's the daughter that the father particularly annoys in spite of her lackadaisical attitude.,243,6,Negative,PN
+C,69,SubjExp,cherish,Passive,That's the father that the daughter is particularly cherished by in spite of her lackadaisical attitude.,270,9,Positive,PN
+D,69,ObjExp,annoy,Passive,That's the father that the daughter is particularly annoyed by in spite of her lackadaisical attitude.,243,7,Negative,PN
+D,70,SubjExp,cherish,Active,That's the colleague that the scientist particularly cherishes in spite of his nonchalant demeanor.,270,9,Positive,PN
+A,70,ObjExp,annoy,Passive,That's the scientist that the colleague is particularly annoyed by in spite of his nonchalant demeanor.,243,7,Negative,PN
+B,70,SubjExp,cherish,Passive,That's the scientist that the colleague is particularly cherished by in spite of his nonchalant demeanor.,270,9,Positive,PN
+C,70,ObjExp,annoy,Active,That's the colleague that the scientist particularly annoys in spite of his nonchalant demeanor.,243,6,Negative,PN
+C,71,SubjExp,dislike,Active,That's the barber that the stylist really dislikes due to his bold new approach.,215,8,Negative,NP
+D,71,ObjExp,amaze,Active,That's the barber that the stylist really amazes due to his bold new approach.,194,6,Positive,NP
+A,71,SubjExp,dislike,Passive,That's the stylist that the barber is really disliked by due to his bold new approach.,215,8,Negative,NP
+B,71,ObjExp,amaze,Passive,That's the stylist that the barber is really amazed by due to his bold new approach.,194,6,Positive,NP
+B,72,SubjExp,dislike,Active,That's the painter that the artist really dislikes due to her freeflowing compositions.,215,8,Negative,NP
+C,72,ObjExp,amaze,Passive,That's the artist that the painter is really amazed by due to her freeflowing compositions.,194,6,Positive,NP
+D,72,SubjExp,dislike,Passive,That's the artist that the painter is really disliked by due to her freeflowing compositions.,215,8,Negative,NP
+A,72,ObjExp,amaze,Active,That's the painter that the artist really amazes due to her freeflowing compositions.,194,6,Positive,NP
+A,73,SubjExp,loathe,Active,That's the thief that the cop strongly loathes on account of their constant chases.,134,7,Negative,NN
+B,73,ObjExp,irritate,Active,That's the thief that the cop strongly irritates on account of their constant chases.,133,9,Negative,NN
+C,73,SubjExp,loathe,Passive,That's the cop that the thief is strongly loathed by on account of their constant chases.,134,7,Negative,NN
+D,73,ObjExp,irritate,Passive,That's the cop that the thief is strongly irritated by on account of their constant chases.,133,9,Negative,NN
+D,74,SubjExp,loathe,Active,That's the minister that the king strongly loathes on account of his poor judgement.,134,7,Negative,NN
+A,74,ObjExp,irritate,Passive,That's the king that the minister is strongly irritated by on account of his poor judgement.,133,9,Negative,NN
+B,74,SubjExp,loathe,Passive,That's the king that the minister is strongly loathed by on account of his poor judgement.,134,7,Negative,NN
+C,74,ObjExp,irritate,Active,That's the minister that the king strongly irritates on account of his poor judgement.,133,9,Negative,NN
+C,75,SubjExp,dread,Active,That's the boss that the employee somewhat dreads despite his apparent cheerfulness.,114,6,Negative,NN
+D,75,ObjExp,depress,Active,That's the boss that the employee somewhat depresses despite his apparent cheerfulness.,132,9,Negative,NN
+A,75,SubjExp,dread,Passive,That's the employee that the boss is somewhat dreaded by despite his apparent cheerfulness.,114,7,Negative,NN
+B,75,ObjExp,depress,Passive,That's the employee that the boss is somewhat depressed by despite his apparent cheerfulness.,132,9,Negative,NN
+B,76,SubjExp,dread,Active,That's the editor that the journalist somewhat dreads despite his upbeat personality.,114,6,Negative,NN
+C,76,ObjExp,depress,Passive,That's the journalist that the editor is somewhat depressed by despite his upbeat personality.,132,9,Negative,NN
+D,76,SubjExp,dread,Passive,That's the journalist that the editor is somewhat dreaded by despite his upbeat personality.,114,7,Negative,NN
+A,76,ObjExp,depress,Active,That's the editor that the journalist somewhat depresses despite his upbeat personality.,132,9,Negative,NN
+A,77,SubjExp,detest,Active,That's the butcher that the monk greatly detests because of his unexpectedly bawdy behavior.,86,7,Negative,NP
+B,77,ObjExp,intrigue,Active,That's the butcher that the monk greatly intrigues because of his unexpectedly bawdy behavior.,71,9,Positive,NP
+C,77,SubjExp,detest,Passive,That's the monk that the butcher is greatly detested by because of his unexpectedly bawdy behavior.,86,8,Negative,NP
+D,77,ObjExp,intrigue,Passive,That's the monk that the butcher is greatly intrigued by because of his unexpectedly bawdy behavior.,71,9,Positive,NP
+D,78,SubjExp,detest,Active,That's the auditor that the businessman greatly detests because of his enormous wealth.,86,7,Negative,NP
+A,78,ObjExp,intrigue,Passive,That's the businessman that the auditor is greatly intrigued by because of his enormous wealth.,71,9,Positive,NP
+B,78,SubjExp,detest,Passive,That's the businessman that the auditor is greatly detested by because of his enormous wealth.,86,8,Negative,NP
+C,78,ObjExp,intrigue,Active,That's the auditor that the businessman greatly intrigues because of his enormous wealth.,71,9,Positive,NP
+C,79,SubjExp,revere,Active,That's the author that the reviewer strongly reveres in spite of his frequent trips to Europe.,45,7,Positive,PN
+D,79,ObjExp,repulse,Active,That's the author that the reviewer strongly repulses in spite of his frequent trips to Europe.,53,8,Negative,PN
+A,79,SubjExp,revere,Passive,That's the reviewer that the author is strongly revered by in spite of his frequent trips to Europe.,45,7,Positive,PN
+B,79,ObjExp,repulse,Passive,That's the reviewer that the author is strongly repulsed by in spite of his frequent trips to Europe.,53,8,Negative,PN
+B,80,SubjExp,revere,Active,That's the carpenter that the stonemason strongly reveres in spite of his mediocrity.,45,7,Positive,PN
+C,80,ObjExp,repulse,Passive,That's the stonemason that the carpenter is strongly repulsed by in spite of his mediocrity.,53,8,Negative,PN
+D,80,SubjExp,revere,Passive,That's the stonemason that the carpenter is strongly revered by in spite of his mediocrity.,45,7,Positive,PN
+A,80,ObjExp,repulse,Active,That's the carpenter that the stonemason strongly repulses in spite of his mediocrity.,53,8,Negative,PN
+A,81,SubjExp,idolize,Active,That's the priest that the reporter particularly idolizes due to his behavior at press conferences.,31,8,Positive,PN
+B,81,ObjExp,unnerve,Active,That's the priest that the reporter particularly unnerves due to his behavior at press conferences.,35,8,Negative,PN
+C,81,SubjExp,idolize,Passive,That's the reporter that the priest is particularly idolized by due to his behavior at press conferences.,31,8,Positive,PN
+D,81,ObjExp,unnerve,Passive,That's the reporter that the priest is particularly unnerved by due to his behavior at press conferences.,35,8,Negative,PN
+D,82,SubjExp,idolize,Active,That's the butler that the millionaire particularly idolizes due to his distinctive mannerisms.,31,8,Positive,PN
+A,82,ObjExp,unnerve,Passive,That's the millionaire that the butler is particularly unnerved by due to his distinctive mannerisms.,35,8,Negative,PN
+B,82,SubjExp,idolize,Passive,That's the millionaire that the butler is particularly idolized by due to his distinctive mannerisms.,31,8,Positive,PN
+C,82,ObjExp,unnerve,Active,That's the butler that the millionaire particularly unnerves due to his distinctive mannerisms.,35,8,Negative,PN
+C,83,SubjExp,distrust,Active,That's the scientist that the artist strongly distrusts on account of his being late for meetings.,23,9,Negative,NN
+D,83,ObjExp,perturb,Active,That's the scientist that the artist strongly perturbs on account of his being late for meetings.,15,8,Negative,NN
+A,83,SubjExp,distrust,Passive,That's the artist that the scientist is strongly distrusted by on account of his being late for meetings.,23,10,Negative,NN
+B,83,ObjExp,perturb,Passive,That's the artist that the scientist is strongly perturbed by on account of his being late for meetings.,15,9,Negative,NN
+B,84,SubjExp,distrust,Active,That's the drummer that the guitarist strongly distrusts on account of his never-ending primadonnism.,23,9,Negative,NN
+C,84,ObjExp,perturb,Passive,That's the guitarist that the drummer is strongly perturbed by on account of his never-ending primadonnism.,15,9,Negative,NN
+D,84,SubjExp,distrust,Passive,That's the guitarist that the drummer is strongly distrusted by on account of his never-ending primadonnism.,23,10,Negative,NN
+A,84,ObjExp,perturb,Active,That's the drummer that the guitarist strongly perturbs on account of his never-ending primadonnism.,15,8,Negative,NN
+A,85,SubjExp,esteem,Active,That's the lawyer that the judge greatly esteems despite his conduct in the courtroom.,12,7,Positive,PN
+B,85,ObjExp,appall,Active,That's the lawyer that the judge greatly appalls despite his conduct in the courtroom.,11,7,Negative,PN
+C,85,SubjExp,esteem,Passive,That's the judge that the lawyer is greatly esteemed by despite his conduct in the courtroom.,12,8,Positive,PN
+D,85,ObjExp,appall,Passive,That's the judge that the lawyer is greatly appalled by despite his conduct in the courtroom.,11,8,Negative,PN
+D,86,SubjExp,esteem,Active,That's the florist that the gardener greatly esteems despite her being of average skill.,12,7,Positive,PN
+A,86,ObjExp,appall,Passive,That's the gardener that the florist is greatly appalled by despite her being of average skill.,11,8,Negative,PN
+B,86,SubjExp,esteem,Passive,That's the gardener that the florist is greatly esteemed by despite her being of average skill.,12,8,Positive,PN
+C,86,ObjExp,appall,Active,That's the florist that the gardener greatly appalls despite her being of average skill.,11,7,Negative,PN
+C,87,SubjExp,respect,Active,That's the client that the consultant really respects because of his out of the box thinking.,1574,8,Positive,PP
+D,87,ObjExp,impress,Active,That's the client that the consultant really impresses because of his out of the box thinking.,1386,9,Positive,PP
+A,87,SubjExp,respect,Passive,That's the consultant that the client is really respected by because of his out of the box thinking.,1574,9,Positive,PP
+B,87,ObjExp,impress,Passive,That's the consultant that the client is really impressed by because of his out of the box thinking.,1386,9,Positive,PP
+B,88,SubjExp,respect,Active,That's the agent that the rock star really respects because of his unmatched abilities.,1574,8,Positive,PP
+C,88,ObjExp,impress,Passive,That's the rock star that the agent is really impressed by because of his unmatched abilities.,1386,9,Positive,PP
+D,88,SubjExp,respect,Passive,That's the rock star that the agent is really respected by because of his unmatched abilities.,1574,9,Positive,PP
+A,88,ObjExp,impress,Active,That's the agent that the rock star really impresses because of his unmatched abilities.,1386,9,Positive,PP

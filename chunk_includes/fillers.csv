@@ -1,0 +1,53 @@
+Group,Item,Gram,Paren,Type,Sentence
+A,89,Ungram,Paren,Agr,"Those are the children with bad tempers that, late in the afternoon, sometimes chases the babysitter because of their rambunctiousness."
+A,90,Ungram,Paren,Agr,"Those are the photographers of not much skill that, in every new article, is always praised by the writer in spite of their poor shots."
+A,91,Ungram,NoParen,Agr,Those are the psychiatrists with good reputations that usually confronts the client in spite of their friendliness.
+A,92,Ungram,NoParen,Agr,Those are the fishermen with big hats that is often passed by the hiker on account of them taking the same path.
+A,93,Ungram,NoParen,Agr,The cabinets that the mixture is gradually congealing in is used for many experiments.
+A,94,Ungram,NoParen,Agr,The jungles where the explorer is presently investigating dangerous ruins is full of dangerous beasts.
+A,95,Ungram,NoParen,Agr,The concerts that the musician is freely hosting is very well attended.
+A,96,Ungram,NoParen,Agr,The cities where the historian is currently conducting research boast one of the largest libraries in the state.
+A,97,Ungram,Paren,Island,"The book that, only a month ago, the woman who wrote was praised, was at the top of the best-sellers list."
+A,98,Ungram,Paren,Island,"The billboard that, just last week, the company that rented went out of business, was once again available for rent."
+A,99,Ungram,NoParen,Island,The theory that the professor who discussed was an expert on the topic was difficult to understand.
+A,100,Ungram,NoParen,Island,The gym that the equipment that was bought by broke unexpectedly was trying to get a refund.
+A,101,Ungram,NoParen,Island,Who did the charity wonder whether knew the donor?
+A,102,Ungram,NoParen,Island,What did the climber ask whether lived on the mountain?
+A,103,Ungram,NoParen,Island,Who did the gymnast see the coach who met?
+A,104,Ungram,NoParen,Island,What did the shopper discover the store that had on sale?
+A,105,Gram,Paren,Plural,"The accountants that, earlier this month, the financial branches were busily hiring, are needed for the upcoming tax season."
+A,106,Gram,Paren,Plural,"The UPS driver that, at any given moment, the mailmen were heavily criticizing, rarely delivers packages on time."
+A,107,Gram,Paren,Plural,"The lecturer that, at every campus event, the chancellors are freely praising, is beloved by her students."
+A,108,Gram,Paren,Plural,"The pharmacist that, for the whole hour, the cops were directly accusing, was helped out by his friend."
+A,109,Gram,NoParen,Plural,The receptionists that the companies are always overworking bonded with the caterers.
+A,110,Gram,NoParen,Plural,The student teacher that the board members are harshly reprimanding was framed.
+A,111,Gram,NoParen,Plural,The soldiers that the documentary makers are eagerly featuring march in the yearly parade.
+A,112,Gram,NoParen,Plural,The salesperson that the consultants are greatly offending refuses to attend any more joint meetings with them.
+A,113,Ungram,NoParen,Conj,The young student and his mother is diligently learning how to bake professional grade croissants from scratch.
+A,114,Ungram,NoParen,Conj,The king and the general was hurriedly planning a siege on the neighboring kingdom's armory.
+A,115,Ungram,NoParen,Conj,The little puppy and the mean old dachshund was happily getting along.
+A,116,Ungram,NoParen,Conj,The old duke and his young bride was barely talking to each other to the consternation of their parents.
+A,117,Ungram,NoParen,Conj,The boy and his younger brother was quickly suspended for covering the school mascot in toilet paper.
+A,118,Ungram,NoParen,Conj,The new hire and her boyfriend was secretly gobbling up another piece of the delicious pie at the potluck.
+A,119,Ungram,NoParen,Conj,The prospector and his horse was cautiously making their way down the slope to the mine's entrance.
+A,120,Ungram,NoParen,Conj,The owl and the hawk was suspiciously eyeing each other as dusk finally fell in the forest.
+A,121,Ungram,NoParen,Island,What did you know the customer that bought?
+A,122,Ungram,NoParen,Island,What did you ask whether worked reliably?
+A,123,Ungram,NoParen,Island,What did you say the password that unlocks?
+A,124,Ungram,NoParen,Island,What did you wonder whether was scheduled for this weekend?
+A,125,Ungram,NoParen,Island,What did you believe the speaker who announced?
+A,126,Gram,Paren,Paren,"The nurse that, a year ago, had treated Nancy did not recognize her when she came back for a checkup."
+A,127,Gram,Paren,Paren,"The receptionist that, for several long minutes, was looking for Amanda found her at meeting room preparing for the interview."
+A,128,Gram,Paren,Paren,"The baseball player that, according to the papers, yelled at Josh distracted him in the most crucial moment of the game."
+A,129,Gram,Paren,Paren,"The senator that, according to everybody, liked Kevin praised him to anyone who was willing to listen."
+A,130,Gram,NoParen,Reflexive,The ballerina that rehearsed with Amy surprised herself by managing the complex pirouette on the first try.
+A,131,Gram,NoParen,Reflexive,The feminist activists that protested with Angela noticed herself standing near the influential gender theorist.
+A,132,Gram,NoParen,Reflexive,The soldier who drove with Andrew blamed himself for the fatal accident.
+A,133,Gram,NoParen,Reflexive,The detective who suspected Ted convinced himself to find an excuse for an arrest.
+A,134,Ungram,NoParen,Reflexive,The hostess who worked with Laura disgraced himself by arriving extremely late today.
+A,135,Ungram,NoParen,Reflexive,The mother who met with Justin sunned himself at the beach party.
+A,136,Ungram,NoParen,Reflexive,The businesswoman who worked with Michelle oppressed himself with the mountain of paperwork.
+A,137,Ungram,NoParen,Reflexive,The aunt who talked with Patrick escorted himself to the dinner party.
+A,138,Ungram,NoParen,Reflexive,The policeman who talked to Cody steeled herself for the accusations in the courthouse.
+A,139,Ungram,NoParen,Reflexive,The old man who rescued Melissa contented herself with the memories of last week.
+A,140,Ungram,NoParen,Reflexive,The prince who consulted with Margaret interrupted herself during the speech.

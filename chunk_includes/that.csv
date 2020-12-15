@@ -1,0 +1,97 @@
+Group,Item,Extraction,Comp,Verb,PrThat,Sentence
+A,33,Matrix,That,assume,0.725245553,Who assumed that the cashier knew the robber?
+B,33,Matrix,Null,assume,0.725245553,Who assumed the cashier knew the robber?
+C,33,Embedded,That,assume,0.725245553,Who did the robber assume that the cashier knew?
+D,33,Embedded,Null,assume,0.725245553,Who did the robber assume the cashier knew?
+D,34,Matrix,That,think,0.141785968,Who thought that the professor interviewed the student?
+A,34,Matrix,Null,think,0.141785968,Who thought the professor interviewed the student?
+B,34,Embedded,That,think,0.141785968,Who did the student think that the professor interviewed?
+C,34,Embedded,Null,think,0.141785968,Who did the student think the professor interviewed?
+C,35,Matrix,That,argue,0.946193644,Who argued that the suspect attacked the attorney?
+D,35,Matrix,Null,argue,0.946193644,Who argued that the suspect attacked the attorney?
+A,35,Embedded,That,argue,0.946193644,Who did the attorney argue that the suspect attacked?
+B,35,Embedded,Null,argue,0.946193644,Who did the attorney argue the suspect attacked?
+B,36,Matrix,That,guess,0.302528335,Who guessed that the dean consulted the committee?
+C,36,Matrix,Null,guess,0.302528335,Who guessed the dean consulted the committee?
+D,36,Embedded,That,guess,0.302528335,Who did the committee guess that the dean consulted?
+A,36,Embedded,Null,guess,0.302528335,Who did the committee guess the dean consulted?
+A,37,Matrix,That,assume,0.725245553,Who assumed that the dog bit the breeder?
+B,37,Matrix,Null,assume,0.725245553,Who assumed the dog bit the breeder?
+C,37,Embedded,That,assume,0.725245553,Who did the breeder assume that the dog bit?
+D,37,Embedded,Null,assume,0.725245553,Who did the breeder assume the dog bit?
+D,38,Matrix,That,claim,0.641977578,Who claimed that the author respected the physicist?
+A,38,Matrix,Null,claim,0.641977578,Who claimed the author respected the physicist?
+B,38,Embedded,That,claim,0.641977578,Who did the physicist claim that the author respected?
+C,38,Embedded,Null,claim,0.641977578,Who did the physicist claim the author respected?
+C,39,Matrix,That,hint,0.79245283,Who hinted that Julia broke up with Joe?
+D,39,Matrix,Null,hint,0.79245283,Who hinted Julia broke up with Joe?
+A,39,Embedded,That,hint,0.79245283,Who did Joe hint that Julia broke up with?
+B,39,Embedded,Null,hint,0.79245283,Who did Joe hint Julia broke up with?
+B,40,Matrix,That,hope,0.354907898,Who hoped that the CEO fired the manager?
+C,40,Matrix,Null,hope,0.354907898,Who hoped the CEO fired the manager?
+D,40,Embedded,That,hope,0.354907898,Who did the manager hope that the CEO fired?
+A,40,Embedded,Null,hope,0.354907898,Who did the manager hope the CEO fired?
+A,41,Matrix,That,insist,0.729651163,Who insisted that the activist criticized the journalist?
+B,41,Matrix,Null,insist,0.729651163,Who insisted the activist criticized the journalist?
+C,41,Embedded,That,insist,0.729651163,Who did the journalist insist that the activist criticized?
+D,41,Embedded,Null,insist,0.729651163,Who did the journalist insist the activist criticized?
+D,42,Matrix,That,suppose,0.124867725,Who supposed that the editor loved the novelist?
+A,42,Matrix,Null,suppose,0.124867725,Who supposed the editor loved the novelist?
+B,42,Embedded,That,suppose,0.124867725,Who did the novelist suppose that the editor loved?
+C,42,Embedded,Null,suppose,0.124867725,Who did the novelist suppose the editor loved?
+C,43,Matrix,That,hope,0.354907898,Who hoped that the girl loved the clown?
+D,43,Matrix,Null,hope,0.354907898,Who hoped the girl loved the clown?
+A,43,Embedded,That,hope,0.354907898,Who did the clown hope that the girl loved?
+B,43,Embedded,Null,hope,0.354907898,Who did the clown hope the girl loved?
+B,44,Matrix,That,think,0.141785968,Who thought that the knight protected the king?
+C,44,Matrix,Null,think,0.141785968,Who thought the knight protected the king?
+D,44,Embedded,That,think,0.141785968,Who did the king think that the knight protected?
+A,44,Embedded,Null,think,0.141785968,Who did the king think the knight protected?
+A,45,Matrix,That,assume,0.725245553,Who assumed that the student admired the professor?
+B,45,Matrix,Null,assume,0.725245553,Who assumed the student admired the professor?
+C,45,Embedded,That,assume,0.725245553,Who did the professor assume that the student admired?
+D,45,Embedded,Null,assume,0.725245553,Who did the professor assume the student admired?
+D,46,Matrix,That,hope,0.354907898,Who hoped that the director nominated the actress?
+A,46,Matrix,Null,hope,0.354907898,Who hoped the director nominated the actress?
+B,46,Embedded,That,hope,0.354907898,Who did the actress hope that the director nominated?
+C,46,Embedded,Null,hope,0.354907898,Who did the actress hope the director nominated?
+C,47,Matrix,That,guess,0.302528335,Who guessed that the boy rescued the firefighter?
+D,47,Matrix,Null,guess,0.302528335,Who guessed the boy rescued the firefighter?
+A,47,Embedded,That,guess,0.302528335,Who did the firefighter guess that the boy rescued?
+B,47,Embedded,Null,guess,0.302528335,Who did the firefighter guess the boy rescued?
+B,48,Matrix,That,argue,0.946193644,Who argued that the plaintiff hired the lawyer?
+C,48,Matrix,Null,argue,0.946193644,Who argued the plaintiff hired the lawyer?
+D,48,Embedded,That,argue,0.946193644,Who did the lawyer argue that the plaintiff hired?
+A,48,Embedded,Null,argue,0.946193644,Who did the lawyer argue the plaintiff hired?
+A,49,Matrix,That,argue,0.946193644,Who argued that the defendant bribed the judge?
+B,49,Matrix,Null,argue,0.946193644,Who argued the defendant bribed the judge?
+C,49,Embedded,That,argue,0.946193644,Who did the judge argue that the defendant bribed?
+D,49,Embedded,Null,argue,0.946193644,Who did the judge argue the defendant bribed?
+D,50,Matrix,That,guess,0.302528335,Who guessed that the bird attacked the bird?
+A,50,Matrix,Null,guess,0.302528335,Who guessed the bird attacked the bird?
+B,50,Embedded,That,guess,0.302528335,Who did the bird watcher guess that the bird attacked?
+C,50,Embedded,Null,guess,0.302528335,Who did the bird watcher guess the bird attacked?
+C,51,Matrix,That,claim,0.641977578,Who claimed that the astronaut respects the engineer?
+D,51,Matrix,Null,claim,0.641977578,Who claimed the astronaut respects the engineer?
+A,51,Embedded,That,claim,0.641977578,Who did the engineer claim that the astronaut respects?
+B,51,Embedded,Null,claim,0.641977578,Who did the engineer claim the astronaut respects?
+B,52,Matrix,That,assume,0.725245553,Who assumed that the passenger helped the bus?
+C,52,Matrix,Null,assume,0.725245553,Who assumed the passenger helped the bus?
+D,52,Embedded,That,assume,0.725245553,Who did the bus driver assume that the passenger helped?
+A,52,Embedded,Null,assume,0.725245553,Who did the bus driver assume the passenger helped?
+A,53,Matrix,That,hint,0.79245283,Who hinted that the nun loves the monk?
+B,53,Matrix,Null,hint,0.79245283,Who hinted the nun loves the monk?
+C,53,Embedded,That,hint,0.79245283,Who did the monk hint that the nun loves?
+D,53,Embedded,Null,hint,0.79245283,Who did the monk hint the nun loves?
+D,54,Matrix,That,suppose,0.124867725,Who supposed that the florist married the baker?
+A,54,Matrix,Null,suppose,0.124867725,Who supposed the florist married the baker?
+B,54,Embedded,That,suppose,0.124867725,Who did the baker suppose that the florist married?
+C,54,Embedded,Null,suppose,0.124867725,Who did the baker suppose the florist married?
+C,55,Matrix,That,think,0.141785968,Who thought that the patient loved the doctor?
+D,55,Matrix,Null,think,0.141785968,Who thought the patient loved the doctor?
+A,55,Embedded,That,think,0.141785968,Who did the doctor think that the patient loved?
+B,55,Embedded,Null,think,0.141785968,Who did the doctor think the patient loved?
+B,56,Matrix,That,insist,0.729651163,Who insisted that the salesperson called the customer?
+C,56,Matrix,Null,insist,0.729651163,Who insisted the salesperson called the customer?
+D,56,Embedded,That,insist,0.729651163,Who did the customer insist that the salesperson called?
+A,56,Embedded,Null,insist,0.729651163,Who did the customer insist the salesperson called?
